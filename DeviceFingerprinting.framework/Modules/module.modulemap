@@ -1,0 +1,6 @@
+framework module DeviceFingerprinting {
+  umbrella header "DeviceFingerprinting.h"
+
+  export *
+  module * { export * }
+}
